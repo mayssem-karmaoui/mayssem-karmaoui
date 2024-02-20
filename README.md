@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mayssem Karmaoui</h1>
-<h3 align="center">per from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/3612ee9ed74410f8215009e743bde46d2bd74b96bc330563604211dc5f35d4b1/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayssem-karmaoui&label=Profile%20views&color=0e75b6&style=flat" alt="mayssem-karmaoui" /> </p>
@@ -14,9 +13,6 @@
 
 - ⚡ Fun fact **I'm a movie buff with an uncanny ability to quote my favorite films on demand! 🎬**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
@@ -33,7 +29,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayssem-karmaoui&" alt="mayssem-karmaoui" /></p>
 
 
-
-
-
-https://rahuldkjain.github.io/gh-profile-readme-generator/

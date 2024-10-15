@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Ansible**
 
-- 💬 Ask me about **Docker, Kubernetes, DevOps Principles**
+- 💬 Ask me about **DevOps Principles, Docker, Kubernetes, CI/CD**
 
 - 📫 How to reach me **karmaouimayssem@gmail.com**
 

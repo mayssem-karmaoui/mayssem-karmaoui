@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **ISSAT**
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Ansible**
 
-- 💬 Ask me about **React js, CSS, Html**
+- 💬 Ask me about **Docker, Kubernetes, DevOps Principles**
 
 - 📫 How to reach me **karmaouimayssem@gmail.com**
 
